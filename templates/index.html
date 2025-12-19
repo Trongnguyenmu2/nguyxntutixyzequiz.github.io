@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Quiz - Start</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>body { font-family: sans-serif; background-color: #f3f4f6; }</style>
+</head>
+<body class="flex items-center justify-center min-h-screen">
+    <div class="bg-white p-10 rounded-2xl shadow-xl w-full max-w-md text-center">
+        <h1 class="text-4xl font-extrabold text-blue-600 mb-2">ENGLISH QUIZ</h1>
+        <p class="text-gray-500 mb-8">Kiểm tra ngữ pháp & từ vựng (6 Units)</p>
+        
+        <!-- Form này sẽ gửi yêu cầu POST về trang chủ (/) để bắt đầu game -->
+        <form method="POST" action="{{ url_for('index') }}">
+            <div class="mb-6 text-left">
+                <label class="block text-gray-700 font-bold mb-2">Nhập tên của bạn:</label>
+                <input type="text" name="player_name" required placeholder="Ví dụ: Alex" 
+                       class="w-full px-4 py-3 border-2 border-gray-300 rounded-lg focus:outline-none focus:border-blue-500 transition">
+            </div>
+            <button type="submit" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 rounded-lg text-xl transition shadow-lg transform hover:scale-105">
+                CHƠI NGAY ▶
+            </button>
+        </form>
+    </div>
+</body>
+</html>
