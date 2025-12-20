@@ -350,7 +350,7 @@ Q: _____________come tonight?
 A. You can
 B. Do you can
 C. Can coming
-A. Can you
+D. Can you
 ANSWER: D
 
 UNIT 6
@@ -422,4 +422,5 @@ A. doesn’t usually sleep
 B. isn’t usually sleeping
 C. isn’t usually sleep
 D. don’t usually sleep
+
 ANSWER: A
