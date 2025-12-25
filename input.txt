@@ -1,4 +1,4 @@
-UNIT 7: 
+UNIT 1: PAST SIMPLE
 
 Q: She ___________ come to my party last year.
 A. didn’t could
@@ -140,7 +140,7 @@ C. smiled
 D. watched
 ANSWER: D
 
-UNIT 8:
+UNIT 2: HOME AND PREPOSITIONS
 
 Q: The table is ____________ the sofa and the lamp.
 A. on
@@ -282,7 +282,7 @@ C. bathroom
 D. garden
 ANSWER: B
 
-UNIT 9
+UNIT 3: COMPARATIVES AND QUANTIFIERS
 
 Q: The weather in Da Lat is ____ than in Ho Chi Minh City.
 A. cool
@@ -431,7 +431,7 @@ C. more interesting
 D. interesting
 ANSWER: C
 
-UNIT 10: 
+UNIT 4: FUTURE PLANS AND SUPERLATIVES
 
 Q: Eating apples is __________ than eating cookies.
 A. healthier
@@ -566,7 +566,7 @@ C. pharmacy
 D. bus station
 ANSWER: D
 
-UNIT 11 + 12
+UNIT 5: PRESENT PERFECT AND ADVERBS
 
 Q: My brother is __________ studying math.
 A. to college
