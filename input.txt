@@ -1,709 +1,699 @@
-UNIT 1
-
-Q: She ___________ come to my party last year.
-A. didn’t could
-B. didn’t can
-C. can’t
-D. couldn’t
-ANSWER: D
-
-Q: She ____________ to her friends yesterday.
-A. is talk
-B. was talk
-C. talked
-D. talk
-ANSWER: C
-
-Q: Speaker A: “___________________ a taxi home?” Speaker B: “Yes. We didn’t want to drive.”
-A. Do you get
-B. What did you get
-C. Did you get
-D. Were you get
-ANSWER: C
-
-Q: She ___________ born in 198...
-A. were
-B. be
-C. are
-D. was
-ANSWER: D
-
-Q: Speaker A: “What ___________________?” Speaker B: “I wore jeans and my new black shirt.”
-A. do you wear
-B. did you wear
-C. were you wear
-D. are you wear
-ANSWER: B
-
-Q: Yesterday, I___________ to bed at 11 o’clock.
-A. have
-B. went
-C. got
-D. had
-ANSWER: B
-
-Q: She ___________ dinner at a restaurant yesterday.
-A. had
-B. went
-C. got
-D. was
+Q: Sorry, I can’t hear you. I ________ to music.
+A. am listening
+B. listening
+C. was listening
+D. listened
 ANSWER: A
 
-Q: They___________ a newspaper yesterday morning.
-A. weren’t go
-B. aren’t have
-C. don’t have
-D. didn’t get
-ANSWER: D
-
-Q: In the afternoon, I ___________ for a walk.
-A. am
-B. went
-C. got
-D. had
-ANSWER: B
-
-Q: My girlfriend finished college _________________
-A. two ago years
-B. two years ago
-C. ago two years
-D. years two ago
-ANSWER: B
-
-Q: Thomas Edison was the ___________ of incandescent light bulb.
-A. inventor
-B. singer
-C. artist
-D. sailor
+Q: Tanya’s dad doesn’t have any hair. He is ________
+A. bald
+B. curly
+C. thin
+D. fat
 ANSWER: A
 
-Q: Choose the word with a different sound:
-A. booked
-B. washed
-C. stopped
-D. painted
+Q: We __________ in a hotel when we visited Ha Noi last year.
+A. sunbathed
+B. spent
+C. rented
+D. stayed
 ANSWER: D
 
-Q: I chatted with my friends for an hour_________________
-A. last night
-B. now
-C. before night
-D. night last
+Q: An endangered species is a species______ population is so small that it is in danger of becoming extinct.
+A. whose
+B. which
+C. what
+D. who
 ANSWER: A
 
-Q: Speaker A: “Was Frank Sinatra a singer?” Speaker B: “___________________”
-A. Yes, he did
-B. No, he isn’t
-C. No, he didn’t
-D. Yes, he was
-ANSWER: D
-
-Q: Alex ___________ up early yesterday morning.
-A. wasn’t got
-B. aren’t get
-C. don’t get
-D. didn’t get
-ANSWER: D
-
-Q: Last month, we ___________ the train to the coast.
-A. have
-B. were
-C. went
-D. got
-ANSWER: D
-
-Q: Speaker A: “Were your grandparents born in Viet Nam?” Speaker B: “________________________”
-A. Yes, they were
-B. Yes, I was
-C. Yes, he was
-D. Yes, you were
-ANSWER: A
-
-Q: Emily ___________ her keys yesterday.
-A. losed
-B. was lose
-C. lost
-D. did lose
-ANSWER: C
-
-Q: Where _________ you yesterday?
-A. is
-B. be
-C. was
-D. were
-ANSWER: D
-
-Q: Choose the word with a different sound:
-A. opened
-B. called
-C. smiled
-D. watched
-ANSWER: D
-
-UNIT 2
-
-Q: The table is ____________ the sofa and the lamp.
-A. on
-B. under
-C. between
-D. above
-ANSWER: C
-
-Q: Somebody __________ my laptop when I was __________ of the room.
-A. take / out
-B. take / in
-C. took / out
-D. took / in
-ANSWER: C
-
-Q: _______ there _________ neighbors?
-A. Are / any
-B. Are / some
-C. Is / any
-D. Is / some
-ANSWER: A
-
-Q: There is some orange juice in the __________ for you. Help yourself.
-A. plate
-B. fridge
-C. microwave
-D. stove
+Q: “Gastropub” is formed by combining _____________.
+A. gas and pub
+B. gastronomy and pub
+C. guest and picnic
+D. giant and picnic
 ANSWER: B
 
-Q: Please choose the correct sentence.
-A. There aren’t a TV in the living room.
-B. There aren’t some table in the living room.
-C. There isn’t a TV in the living room.
-D. There isn’t tables in the living room.
-ANSWER: C
-
-Q: Last night, I ________ asleep in my room when a strange noise _________ me up.
-A. am / wake
-B. was / woke
-C. am / woke
-D. was / wake
+Q: We have ______ finished the project.
+A. yet
+B. already
+C. ever
+D. be
 ANSWER: B
 
-Q: ______ you _______ the noise during the night?
-A. Are / hear
-B. Do / hear
-C. Were
-D. Did / hear
-ANSWER: D
-
-Q: She turned on the ________ to read her book.
-A. TV
-B. lamp
-C. stove
-D. shower
-ANSWER: B
-
-Q: The yard is packed today, so we drive our car into the __________
-A. balcony
-B. window
-C. garage
-D. stair
-ANSWER: C
-
-Q: Speaker A: “Was there a restaurant?” Speaker B: “No, ____________, but ___________ a coffee shop.”
-A. there was / there was
-B. there wasn’t / there was
-C. there were / there was
-D. the weren’t / there was
-ANSWER: B
-
-Q: The man ________ the window and went into the house.
-A. broke
-B. breaks
-C. had
-D. has
+Q: The book ____________ was written by J.K. Rowling became a bestseller.
+A. which
+B. what
+C. who
+D. whose
 ANSWER: A
 
-Q: They could not park near the restaurant because ___________ parking lot.
-A. there wasn’t a
-B. there wasn’t any
-C. there weren’t a
-D. there weren’t some
-ANSWER: A
-
-Q: _________ is her favorite part of the house because she can enjoy the beauty of her plants and flowers.
-A. garden
-B. bathroom
-C. garage
-D. window
-ANSWER: A
-
-Q: She _____________ here last week as she was too busy.
-A. wasn’t come
-B. not come
-C. didn’t come
-D. doesn’t come
-ANSWER: C
-
-Q: She walks _______ the room.
-A. over
-B. on
-C. from
-D. into
-ANSWER: D
-
-Q: The man stepped ___________ the room to take a phone call.
-A. out of
-B. on
-C. from
-D. under
-ANSWER: A
-
-Q: How many people ___________ in the hotel?
-A. there were
-B. was there
-C. there was
-D. were there
-ANSWER: D
-
-Q: She looks at herself in the ___________.
-A. fridge
-B. rug
-C. shelf
-D. mirror
-ANSWER: D
-
-Q: She was at the hall. Then she ________ a strange noise on the second floor, so she ran _______ the stairs to check if the baby was okay.
-A. heard / up
-B. heard / down
-C. listen / up
-D. listen / down
-ANSWER: A
-
-Q: You usually have dinner in the _____________.
-A. living room
-B. dinning room
-C. bathroom
-D. garden
-ANSWER: B
-
-UNIT 3
-
-Q: The weather in Da Lat is ____ than in Ho Chi Minh City.
-A. cool
-B. coolest
-C. more cool
-D. cooler
-ANSWER: D
-
-Q: We may need ____ tomatoes, some garlic and some pepper for the dish.
-A. any
-B. a
-C. an
-D. some
-ANSWER: D
-
-Q: I bought ____ chicken yesterday, but I didn't buy ____ watermelon.
-A. an / any
-B. any /some
-C. some / a
-D. a / any
-ANSWER: C
-
-Q: Oh, no! There isn't ____ pasta left! I want it, please.
-A. some
-B. a
-C. any
-D. an
-ANSWER: C
-
-Q: _____ cans of tuna do we have?
-A. How many
-B. What
-C. How much
-D. Which
-ANSWER: A
-
-Q: I think we have ____ oranges for the party tomorrow, so we need some more apples and bananas.
-A. a
-B. any
-C. an
-D. some
-ANSWER: D
-
-Q: Speaker A: “How many vegetables do you eat?” Speaker B:” _________ I don’t like them.”
-A. None
-B. Much
-C. A lot
-D. Any
-ANSWER: A
-
-Q: Mount Everest is __________ mountain in the world.
-A. high
-B. higher
-C. the highest
-D. highest
-ANSWER: C
-
-Q: I felt ____ after taking a walk in the quiet park.
-A. happier
-B. happy
-C. happiest
-D. more happy
-ANSWER: A
-
-Q: Lisa felt thirsty, so she grabbed a __________ of soda from the fridge.
-A. carton
-B. box
-C. jar
-D. can
-ANSWER: D
-
-Q: Is there ____ egg in the refrigerator, Mary?
-A. any
-B. an
-C. a
-D. some
-ANSWER: B
-
-Q: A: I don’t eat ____ meat. I’m a vegetarian.
-A. many
-B. an
-C. a lot of
-D. any
-ANSWER: D
-
-Q: He spread some jam from the __________ of strawberry jam on his toast.
-A. bottle
-B. packet
-C. jar
-D. box
-ANSWER: C
-
-Q: I have a cup of tea and ____ cereal for breakfast.
-A. a few
-B. some
-C. many
-D. any
-ANSWER: B
-
-Q: I usually drink a cup of __________ with my breakfast.
-A. tea
-B. rice
-C. salad
-D. fish
-ANSWER: A
-
-Q: Do your children drink ____ milk?
-A. some
-B. any
-C. many
-D. a
-ANSWER: B
-
-Q: __________ orange juice is there in that carton?
-A. How much
-B. What
-C. How many
-D. Which
-ANSWER: A
-
-Q: Can you open the __________ of orange juice for breakfast?
-A. bag
-B. packet
-C. carton
-D. jar
-ANSWER: C
-
-Q: My brother doesn’t like beef; he prefers __________ for dinner.
-A. jam
-B. sugar
-C. fish
-D. butter
-ANSWER: C
-
-Q: After the rain, the street became ____ than usual.
-A. dirtiest
-B. dirtier
-C. dirty
-D. more dirty
-ANSWER: B
-
-Q: This book is ____ than that one.
-A. interestinger
-B. most interesting
-C. more interesting
-D. interesting
-ANSWER: C
-
-UNIT 4
-
-Q: Eating apples is __________ than eating cookies.
-A. healthier
-B. healthy
-C. more healthy
-D. healthiest
-ANSWER: A
-
-Q: The kitchen is __________ room in my house.
-A. the dirtiest
-B. dirty
-C. more dirty
-D. dirtier
-ANSWER: A
-
-Q: They are going to __________ dinner at 7 pm.
-A. go
-B. eat
-C. take
-D. do
-ANSWER: B
-
-Q: They__________ here this weekend.
-A. leaving
-B. are leaving
-C. are going leave
-D. going leave
-ANSWER: B
-
-Q: We __________ see a movie at the cinema tonight.
-A. aren’t going to
-B. isn’t
-C. are
-D. aren’t
-ANSWER: A
-
-Q: Canada is __________ country in North America.
-A. the coldest
-B. colder
-C. coldest
-D. cold
-ANSWER: A
-
-Q: What __________ you __________ after graduation?
-A. do/doing
-B. are/going to do
-C. are/do
-D. do/going
-ANSWER: B
-
-Q: A __________ is a place where people go to buy clothes, shoes, and other things.
-A. museum
-B. mosque
-C. bus station
-D. department store
-ANSWER: D
-
-Q: She is going to __________our grandparents next weekend.
-A. talk
-B. get
-C. visit
-D. go
-ANSWER: C
-
-Q: They will __________ married in a big ceremony.
-A. take
-B. have
-C. get
-D. become
-ANSWER: C
-
-Q: I__________ travel around Vietnam next month.
-A. am
-B. is
-C. will
-D. are
-ANSWER: C
-
-Q: I __________ play football tomorrow.
-A. am going to
-B. am
-C. going to
-D. am go to
-ANSWER: A
-
-Q: A __________ is a place where you can see a play or movie.
-A. hospital
-B. theater
-C. supermarket
-D. post office
-ANSWER: B
-
-Q: Tigers are __________ animals in the zoo.
-A. big
-B. the most dangerous
-C. bigger
-D. the dangerousest
-ANSWER: B
-
-Q: A __________ is a place where you can buy medicine.
-A. market
-B. pharmacy
-C. police station
-D. church
-ANSWER: B
-
-Q: Hieu __________ travel to Hanoi next summer.
-A. are
-B. does
-C. is
-D. is going to
-ANSWER: D
-
-Q: When do you __________ home for the holidays?
-A. back
-B. go back
-C. went back
-D. going back
-ANSWER: B
-
-Q: My house is __________ than your house.
-A. big
-B. bigger
-C. the biggest
-D. highest
-ANSWER: B
-
-Q: This is a __________ where you can catch a bus.
-A. market
-B. supermarket
-C. pharmacy
-D. bus station
-ANSWER: D
-
-UNIT 5
-
-Q: My brother is __________ studying math.
-A. to college
-B. on the college
-C. at the college
-D. at college
-ANSWER: D
-
-Q: I __________ any new clothes recently.
-A. buy
-B. bought
+Q: I ______ the tickets yet.
+A. don’t buy
+B. hasn’t bought
 C. didn’t buy
 D. haven’t bought
 ANSWER: D
 
-Q: The view from the top is __________ beautiful.
-A. most incredibly
-B. more incredible
-C. incredible
-D. incredibly
+Q: Steven Jobs was born ______1955, and he died _____October 5th 2011.
+A. in/on
+B. in/in
+C. on/on
+D. at/on
+ANSWER: A
+
+Q: Which language does “Latte” originally come from?
+A. Spanish
+B. French
+C. Italian
+D. German
+ANSWER: C
+
+Q: We’re arriving _______ Brazil at 6 o’clock.
+A. on
+B. in
+C. to
+D. at
+ANSWER: B
+
+Q: A person who doesn’t want to work is________.
+A. generous
+B. funny
+C. kind
+D. lazy
 ANSWER: D
 
-Q: My friend would like __________ Radiohead live. She loves them.
-A. saw
-B. sees
-C. seeing
-D. to see
+Q: “Airport ambassadors” help you ______________.
+A. buy food
+B. get from one place to another
+C. play games
+D. control the flights
+ANSWER: B
+
+Q: He _________ a moustache and a beard.
+A. have
+B. is
+C. haves
+D. has
 ANSWER: D
 
-Q: The secretary isn’t here. She’s __________ to the bank.
-A. goes
-B. been
-C. gone
-D. went
+Q: Choose the word that is different
+A. straight
+B. long
+C. hardworking
+D. blond
 ANSWER: C
 
-Q: __________ sun came out so we went for a walk.
-A. -
-B. An
-C. The
-D. A
+Q: He ______ his new job recently.
+A. started
+B. have started
+C. has started
+D. starts
 ANSWER: C
 
-Q: I __________ to South Korea a few years ago.
-A. went
-B. go
-C. gone
-D. going
-ANSWER: A
-
-Q: My neighbor’s children aren’t very __________
-A. polite
-B. politely
-C. more polite
-D. most polite
-ANSWER: A
-
-Q: Last year, we went on vacation by __________ train.
-A. a
-B. -
-C. some
-D. the
+Q: ________your laptop have a webcam?
+A. Do
+B. Does
+C. Is
+D. Are
 ANSWER: B
 
-Q: He wrote down the phone number __________
-A. careful
-B. carefully
-C. more careful
-D. most carefully
-ANSWER: B
-
-Q: I want to be __________ engineer when I finish studying.
-A. an
-B. -
-C. a
-D. the
+Q: Speaker A: “It’s cold in here.” Speaker B: “_________ the window.”
+A. I’ll close
+B. I close
+C. I’m closing
+D. I closed
 ANSWER: A
 
-Q: __________ a competition?
-A. Have you ever won
-B. Did you ever win
-C. Did you ever won
-D. Do you won
-ANSWER: A
-
-Q: Most people hate __________ to the dentist.
-A. went
-B. goes
-C. going
-D. go
+Q: ________ the team played very well, they didn’t win the game.
+A. Because
+B. But
+C. Although
+D. So
 ANSWER: C
 
-Q: I always dress __________ when I go to a party.
-A. fashionably
-B. fashionable
-C. fashions
-D. fashion
+Q: They’re playing really badly. They __________ the game.
+A. want win
+B. won’t win
+C. win
+D. won’t to win
+ANSWER: B
+
+Q: What ___________ next weekend? Do you have any plans?
+A. will you do
+B. are you going to do
+C. you will do
+D. is you going to do
+ANSWER: B
+
+Q: This bag is _______ than that one.
+A. expensive
+B. expensiver
+C. more expensive
+D. most expensive
+ANSWER: C
+
+Q: Fiona ____________four cups of coffee every day.
+A. drinks
+B. drink
+C. is drinking
+D. drank
 ANSWER: A
 
-Q: __________ abroad?
-A. Have you ever gone
-B. Have you ever been
-C. Did you went
-D. Have you going
+Q: This room isn’t ___ bright ___ that one.
+A. as / as
+B. so / than
+C. too / to
+D. more / than
+ANSWER: A
+
+Q: “Road rage” refers to _____________.
+A. A new type of road sign
+B. Angry or aggressive behavior while driving
+C. A traffic law
+D. A car race on the street
 ANSWER: B
 
-Q: My grandmother learned __________ when she was 6
-A. driving
-B. to drive
-C. drives
-D. drove
+Q: It’s hard to predict the future. I think we __________ here for a long time, but you never know.
+A. are going to live
+B. will live
+C. live
+D. lived
 ANSWER: B
 
-Q: We have lots of food. We’ve __________ to the supermarket.
-A. going
+Q: She hasn’t cleaned her room ______.
+A. just
+B. already
+C. yet
+D. ever
+ANSWER: C
+
+Q: She ______ Ho Chi Minh City three times.
+A. has visited
+B. visited
+C. is visiting
+D. visits
+ANSWER: A
+
+Q: When _________ those shoes? - Last week.
+A. have you bought
+B. did you buy
+C. do you buy
+D. did you bought
+ANSWER: B
+
+Q: My sister drinks ________coffee
+A. too
+B. too many
+C. too much
+D. a few
+ANSWER: C
+
+Q: My sister is ___ tall ___ my mother.
+A. so / as
+B. as / as
+C. as / than
+D. the same / with
+ANSWER: B
+
+Q: Choose the opposite of “positive”
+A. tense
+B. funny
+C. stupid
+D. good-looking
+ANSWER: A
+
+Q: We’re _____________ this in detail in the next meeting.
+A. discussing
+B. going to discuss
+C. discuss
+D. will discuss
+ANSWER: B
+
+Q: Which activity makes you feel most ______ ?
+A. relax
+B. relaxable
+C. relaxing
+D. relaxed
+ANSWER: D
+
+Q: Do you think Sundays are usually _______?
+A. bored
+B. boring
+C. bore
+D. bores
+ANSWER: B
+
+Q: My birthday is _____ January 1st.
+A. on
+B. at
+C. in
+D. with
+ANSWER: A
+
+Q: A motorbike is _______ than a bicycle.
+A. fast
+B. faster
+C. fastest
+D. more fast
+ANSWER: B
+
+Q: What is the most ____ book you’ve read recently?
+A. interested
+B. interest
+C. interesting
+D. interestingly
+ANSWER: C
+
+Q: Children depend ________ their parents for support.
+A. for
+B. to
+C. on
+D. at
+ANSWER: C
+
+Q: Tanya’s dad eats a lot and doesn’t exercise, so he’s_________.
+A. handsome
+B. overweight
+C. tall
+D. bald
+ANSWER: B
+
+Q: Everything you buy goes into your shopping bag or ________.
+A. auction
+B. delivery
+C. cart
+D. payment
+ANSWER: C
+
+Q: The café ___________ we usually meet has closed down.
+A. which
+B. where
+C. what
+D. whom
+ANSWER: B
+
+Q: They have just come back from Dalat, they ________ a good time there.
+A. took
+B. given
+C. had
+D. played
+ANSWER: C
+
+Q: Speaker A: “My exam is today.” Speaker B: “Don’t worry. ________.”
+A. You pass
+B. You’re passing
+C. You’ll pass
+D. You passed
+ANSWER: C
+
+Q: I woke up in the night ________ there was a noise.
+A. because
+B. but
+C. although
+D. so
+ANSWER: A
+
+Q: She’s very nice, ________ she has a lot of friends.
+A. so
+B. but
+C. although
+D. because
+ANSWER: A
+
+Q: You ________ when I took the photo.
+A. was laughing
+B. are laughing
+C. were laughing
+D. laughing
+ANSWER: C
+
+Q: She is the ___ student in my class.
+A. more intelligent
+B. most intelligent
+C. intelligentest
+D. as intelligent
+ANSWER: B
+
+Q: You usually ______ your housework on the weekend.
+A. make
+B. play
+C. call
+D. do
+ANSWER: D
+
+Q: Adam: “_____________ you going to watch the soccer match tomorrow?.” Tom: “No, I am not. I ___________ be out of the town.”
+A. Do/ am going to
+B. Will/ will
+C. Are/ don’t
+D. Are/ am going to
+ANSWER: D
+
+Q: - It’s the opposite of “stupid”. - It’s “__________”.
+A. lazy
+B. cheap
+C. friendly
+D. intelligent
+ANSWER: D
+
+Q: It’s the __________road in the world.
+A. more dangerous
+B. most dangerous
+C. dangerousest
+D. dangerouser
+ANSWER: B
+
+Q: If you are buying clothes, make sure you get the right ________!
+A. checkout
+B. size
+C. cart
+D. website
+ANSWER: B
+
+Q: Choose the opposite of “talkative”
+A. extroverted
+B. smart
+C. quiet
+D. friendly
+ANSWER: C
+
+Q: We ___ dinner when the phone rang.
+A. have
+B. had
+C. were having
+D. are having
+ANSWER: C
+
+Q: He promises they ____________ the package by the end of the week.
+A. will deliver
+B. are going to deliver
+C. are delivering
+D. shall deliver
+ANSWER: A
+
+Q: Listen! The birds ________.
+A. sings
+B. are singing
+C. sang
+D. singing
+ANSWER: B
+
+Q: That hotel is the ______ in town.
+A. more comfortable
+B. most comfortable
+C. comfortablest
+D. comfortable
+ANSWER: B
+
+Q: My sister ______ from 9:00 to 5:00. She’s a secretary.
+A. works
+B. is working
+C. worked
+D. is worked
+ANSWER: A
+
+Q: ________your brother spend a lot of time on Facebook?
+A. Does
+B. Do
+C. Is
+D. Are
+ANSWER: A
+
+Q: She wants to ______ a phone call.
+A. make
+B. do
+C. can
+D. done
+ANSWER: A
+
+Q: While I was reading, the phone ____________.
+A. ring
+B. rang
+C. ringed
+D. ringing
+ANSWER: B
+
+Q: A hospital is a place __________.
+A. where people go when they are sick.
+B. which people go when they are sick.
+C. what people go when they are sick.
+D. in where people go when they are sick.
+ANSWER: A
+
+Q: I can’t read a book ______ a bus or ______ a car.
+A. on – on
+B. in – in
+C. on – in
+D. in – on
+ANSWER: C
+
+Q: The word “emoticon” is formed from _____________.
+A. emotion and contact
+B. emoji and connection
+C. emotion and icon
+D. emotive and control
+ANSWER: C
+
+Q: “Entertained” means _______________.
+A. bored
+B. interested and amused
+C. tired
+D. scared
+ANSWER: B
+
+Q: You haven’t spent ____________on your homework.
+A. time enough
+B. many time
+C. enough time
+D. a few time
+ANSWER: C
+
+Q: Have you ever _________ to the swimming pool in town?
+A. been
 B. gone
-C. been
+C. went
 D. being
-ANSWER: C
-
-Q: He’s __________ man that I told you yesterday.
-A. the
-B. a
-C. an
-D. some
 ANSWER: A
 
-Q: Our refrigerator is broken. We need __________ a new one.
-A. buy
-B. to buy
-C. buying
-D. bought
+Q: What does she look like?
+A. She is nice and friendly.
+B. She has brown eyes and a round face.
+C. She always helps me with my homework.
+D. She is single.
 ANSWER: B
 
-Q: She was the best athlete so she won the race __________
-A. easilier
-B. easy
-C. easily
-D. more easy
+Q: Women spend _________time cooking than in the past.
+A. less
+B. little
+C. fewer
+D. many
+ANSWER: A
+
+Q: Was there _________ exciting last weekend?
+A. anything
+B. somewhere
+C. something
+D. anyone
+ANSWER: A
+
+Q: They ______ that movie before.
+A. has saw
+B. have seen
+C. saw
+D. see
+ANSWER: B
+
+Q: My dog’s not dangerous. He ___________.
+A. didn’t bite
+B. doesn’t bite
+C. isn’t bite
+D. don’t bite
+ANSWER: B
+
+Q: Today is _______ yesterday.
+A. colder than
+B. coldest
+C. more cold
+D. as colder as
+ANSWER: A
+
+Q: Choose the word that has a different pronunciation: washes, needs, labels, arrives
+A. washes
+B. needs
+C. labels
+D. arrives
+ANSWER: A
+
+Q: That is the man ___________ helped me when I fell down in the street.
+A. whom
+B. who
+C. whose
+D. which
+ANSWER: B
+
+Q: I’ve bought my ticket. I ___________ to Chicago next week.
+A. am going to fly
+B. will fly
+C. fly
+D. should fly
+ANSWER: A
+
+Q: Let’s invite Tom and John ____ the party.
+A. in
+B. at
+C. to
+D. on
 ANSWER: C
+
+Q: Friday is ___________ day of the week.
+A. the busiest
+B. the busier
+C. the most busy
+D. more busier
+ANSWER: A
+
+Q: I didn’t see _________ in the class last Saturday.
+A. something
+B. anyone
+C. nothing
+D. someone
+ANSWER: B
+
+Q: Be careful! The baby______ that pen in her mouth!
+A. is putting
+B. puts
+C. is puting
+D. putting
+ANSWER: A
+
+Q: This is the ________ movie I have ever seen.
+A. worse
+B. worst
+C. bad
+D. most bad
+ANSWER: B
+
+Q: When Jake was young, he was very thin, but now he’s a little _______
+A. slim
+B. mustache
+C. overweight
+D. polite
+ANSWER: C
+
+Q: I arrived _____ Ho Chi Minh City ____ Friday night.
+A. in/on
+B. on/in
+C. at/at
+D. on/at
+ANSWER: A
+
+Q: We went ________ vacation in Bangkok last year.
+A. on
+B. to
+C. for
+D. at
+ANSWER: A
+
+Q: Has she finished her homework ______?
+A. yet
+B. already
+C. just
+D. ever
+ANSWER: A
+
+Q: “Brunch” is a combination of _____________.
+A. breakfast and lunch
+B. bread and lunch
+C. brown and lunch
+D. breakfast and punch
+ANSWER: A
+
+Q: That is the __________ building in the city.
+A. tall
+B. taller
+C. tallest
+D. most tall
+ANSWER: C
+
+Q: ______your best friends like action movies?
+A. Does
+B. Do
+C. Is
+D. Are
+ANSWER: B
+
+Q: Choose the opposite of “lazy”
+A. cheap
+B. hard-working
+C. generous
+D. funny
+ANSWER: B
+
+Q: To receive your package, you have to give your ________ address.
+A. item
+B. delivery
+C. size
+D. cart
+ANSWER: B
+
+Q: What college do you _____to?
+A. go
+B. study
+C. listen
+D. have
+ANSWER: A
+
+Q: When I got home, my parents ___________ on the sofa.
+A. was sitting
+B. were sitting
+C. sat
+D. sitted
+ANSWER: B
+
+Q: He ________ an umbrella with him because it was rainy.
+A. took
+B. takes
+C. taked
+D. tooked
+ANSWER: A
+
+Q: There’s _________ interesting on TV tonight. Let’s go out.
+A. nothing
+B. someone
+C. something
+D. anyone
+ANSWER: A
+
+Q: What do you think you ____________ when you go to college in five years?
+A. will study
+B. are going to study
+C. studied
+D. are studying
+ANSWER: A
+
+Q: Linda is _______ than her brother.
+A. more careful
+B. careful
+C. most careful
+D. as careful
+ANSWER: A
+
+Q: Where has John _______ ? He isn’t here now.
+A. been
+B. gone
+C. went
+D. being
+ANSWER: B
+
+Q: “Rooftop swimming pool” refers to a pool_______________
+A. underground
+B. on the top of the building
+C. inside a building
+D. in the restrooms
+ANSWER: B
+
+Q: I’m waiting __________ my friends at the bus station.
+A. with
+B. up
+C. to
+D. for
+ANSWER: D
