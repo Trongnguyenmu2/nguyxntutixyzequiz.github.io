@@ -28,7 +28,7 @@ def load_quiz_from_file():
         return {}
 
     try:
-        with open(file_path, 'r', encoding='utf-8') as f:
+        with open(file_path, 'r', encoding='utf-8-sig') as f:
             lines = f.readlines()
             
         current_options = {} # Để lưu tạm A, B, C, D
