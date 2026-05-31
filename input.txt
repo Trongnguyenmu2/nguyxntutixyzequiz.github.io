@@ -1,1251 +1,182 @@
 UNIT 1
-Q: Nghĩa của từ "阿姨" (ā yí) là gì?
-A. công việc
-B. ngoài ra
-C. cảm mạo
-D. dì
-ANSWER: D
-
-Q: Nghĩa của từ "爸爸" (bà ba) là gì?
-A. mặc
-B. yên tĩnh
-C. khách sạn
-D. bố
-ANSWER: D
-
-Q: Nghĩa của từ "哥哥" (gē ge) là gì?
-A. nhé, đi, thôi
-B. tủ lạnh
-C. anh trai
-D. căn cứ
+Q: Cho đồ thị G = <V, E> hãy cho biết đâu là tính chất đúng của đơn đồ thị vô hướng:
+A. Giữa hai đỉnh bất kì i, j thuộc V có thể có nhiều hơn một cung nối; có kể đến thứ tự các đỉnh.
+B. Giữa hai đỉnh bất kì i, j thuộc V có nhiều nhất một cung nối; có kể đến thứ tự các đỉnh.
+C. Giữa hai đỉnh bất kì i, j thuộc V có nhiều nhất một cạnh nối; không kể đến thứ tự các đỉnh.
+D. Giữa hai đỉnh bất kì i, j thuộc V có thể có nhiều hơn một cạnh nối; không kể đến thứ tự các đỉnh.
 ANSWER: C
 
-Q: Nghĩa của từ "弟弟" (dì di) là gì?
-A. em trai
-B. quan hệ
-C. nhớ
-D. đồ đạc
+Q: Cho đồ thị G = <V, E>, hãy cho biết đâu là tính chất đúng của đa đồ thị vô hướng:
+A. Giữa hai đỉnh bất kì i, j thuộc V có thể có nhiều hơn một cạnh nối; không kể đến thứ tự các đỉnh.
+B. Giữa hai đỉnh bất kì i, j thuộc V có thể có nhiều hơn một cung nối; có kể đến thứ tự các đỉnh.
+C. Giữa hai đỉnh bất kì i, j thuộc V có nhiều nhất một cạnh nối; không kể đến thứ tự các đỉnh.
+D. Giữa hai đỉnh bất kì i, j thuộc V có nhiều nhất một cung nối; có kể đến thứ tự các đỉnh.
 ANSWER: A
 
-Q: Nghĩa của từ "儿子" (ér zi) là gì?
-A. văn phòng
-B. con trai
-C. thuyền
-D. áo sơ mi
+Q: Cho đồ thị G = <V, E>, hãy cho biết đâu là tính chất đúng của đơn đồ thị có hướng:
+A. Giữa hai đỉnh bất kì i, j thuộc V có nhiều nhất một cung nối; có kể đến thứ tự các đỉnh.
+B. Giữa hai đỉnh bất kì i, j thuộc V có nhiều nhất một cạnh nối; không kể đến thứ tự các đỉnh.
+C. Giữa hai đỉnh bất kì i, j thuộc V có thể có nhiều hơn một cạnh nối; không kể đến thứ tự các đỉnh.
+D. Giữa hai đỉnh bất kì i, j thuộc V có thể có nhiều hơn một cung nối; có kể đến thứ tự các đỉnh.
+ANSWER: A
+
+Q: Cho đồ thị G = <V, E>, hãy cho biết đâu là tính chất đúng của đa đồ thị có hướng:
+A. Giữa hai đỉnh bất kì i, j thuộc V có thể có nhiều hơn một cạnh nối; không kể đến thứ tự các đỉnh.
+B. Giữa hai đỉnh bất kì i, j thuộc V có thể có nhiều hơn một cung nối; có kể đến thứ tự các đỉnh.
+C. Giữa hai đỉnh bất kì i, j thuộc V có nhiều nhất một cung nối; có kể đến thứ tự các đỉnh.
+D. Giữa hai đỉnh bất kì i, j thuộc V có nhiều nhất một cạnh nối; không kể đến thứ tự các đỉnh.
 ANSWER: B
 
-Q: Nghĩa của từ "别人" (bié rén) là gì?
-A. so sánh, tương đối
-B. người khác
-C. email
-D. văn phòng
+Q: Nếu G = <V, E> là một đơn đồ thị vô hướng thì:
+A. G không có khuyên.
+B. G có khuyên.
+C. G có thể có cạnh bội.
+D. G không có cạnh bội.
+ANSWER: D
+
+Q: Nếu G = <V, E> là một đa đồ thị vô hướng thì:
+A. G không có cạnh bội.
+B. G không có khuyên.
+C. G có khuyên.
+D. G có thể có cạnh bội.
+ANSWER: D
+
+Q: Nếu G = <V, E> là một đơn đồ thị có hướng thì:
+A. G không có khuyên.
+B. G có thể có cung bội.
+C. G có khuyên.
+D. G không có cung bội.
+ANSWER: D
+
+Q: Nếu G = <V, E> là một đa đồ thị có hướng thì:
+A. G có thể có cung bội.
+B. G không có cung bội.
+C. G có khuyên.
+D. G không có khuyên.
+ANSWER: A
+
+Q: Ta nói hai đỉnh u, v thuộc V của đồ thị G = <V, E> được gọi là kề nhau nếu:
+A. Có đường nối từ u đến v và từ v đến u.
+B. Có đường nối từ v đến u.
+C. Có đường nối từ u đến v.
+D. (u, v) là một cạnh (cung) của đồ thị.
+ANSWER: D
+
+Q: Ta gọi đỉnh v là đỉnh treo trong đồ thị vô hướng G = <V, E>
+A. Nếu bậc của đỉnh v là một số lẻ.
+B. Nếu bậc của đỉnh v là 0.
+C. Nếu bậc của đỉnh v là một số chẵn.
+D. Nếu bậc của đỉnh v là 1.
+ANSWER: D
+
+Q: Ta gọi đỉnh v là đỉnh cô lập trong đồ thị vô hướng G = <V, E>
+A. Nếu bậc của đỉnh v là một số chẵn.
+B. Nếu bậc của đỉnh v là 1.
+C. Nếu bậc của đỉnh v là 0.
+D. Nếu bậc của đỉnh v là một số lẻ.
+ANSWER: C
+
+Q: Đồ thị vô hướng G = <V, E> được gọi là liên thông nếu:
+A. Giữa hai đỉnh bất kì u, v thuộc V của G luôn tìm được đường đi.
+B. Nếu u thuộc V, thì tồn tại đỉnh v khác u sao cho v liên thông với u.
+C. Nếu u thuộc V thì với mọi v khác u đều kề với u.
+D. Nếu u thuộc V thì tồn tại đỉnh v khác u kề với u.
+ANSWER: A
+
+Q: Đồ thị có hướng G = <V, E> được gọi là liên thông mạnh nếu:
+A. Giữa hai đỉnh bất kì u, v thuộc V của G luôn tìm được đường đi.
+B. Nếu u thuộc V, thì với mọi v khác u đều kề với u.
+C. Nếu u thuộc V, thì tồn tại đỉnh v khác u sao cho v liên thông với u.
+D. Nếu u thuộc V, thì tồn tại đỉnh v khác u kề với u.
+ANSWER: A
+
+Q: Đỉnh u thuộc V của đồ thị G = <V, E> được gọi là đỉnh khớp (hoặc đỉnh rẽ nhánh) nếu:
+A. Đỉnh u luôn là đỉnh cô lập.
+B. Loại bỏ đỉnh u và các cạnh liên thuộc với nó làm tăng số thành phần liên thông của đồ thị.
+C. Đỉnh u luôn là đỉnh treo.
+D. Loại bỏ đỉnh u và các cạnh liên thuộc với nó không làm tăng số thành phần liên thông của đồ thị.
 ANSWER: B
 
-Q: Nghĩa của từ "大家" (dà jiā) là gì?
-A. ra ngoài
-B. nhưng
-C. mọi người
-D. di chuyển
-ANSWER: C
-
-Q: Nghĩa của từ "客人" (kè rén) là gì?
-A. khách
-B. biểu diễn
-C. đơn giản
-D. biết bao
-ANSWER: A
-
-Q: Nghĩa của từ "服务员" (fú wù yuán) là gì?
-A. phục vụ viên
-B. căn cứ
-C. biểu diễn
-D. dài
-ANSWER: A
-
-UNIT 2
-Q: Nghĩa của từ "鼻子" (bí zi) là gì?
-A. mũi
-B. xe buýt
-C. thi đấu
-D. thực đơn
-ANSWER: A
-
-Q: Nghĩa của từ "耳朵" (ěr duo) là gì?
-A. tai
-B. cho
-C. thông minh
-D. di chuyển
-ANSWER: A
-
-Q: Nghĩa của từ "口" (kǒu) là gì?
-A. phút
-B. email
-C. văn phòng
-D. miệng
+Q: Cạnh (u, v) thuộc E của đồ thị G = <V, E> được gọi là cạnh cầu nếu:
+A. Loại bỏ đỉnh u, v làm tăng số thành phần liên thông của đồ thị.
+B. Loại bỏ cạnh (u, v) và các đỉnh u, v làm tăng số thành phần liên thông của đồ thị.
+C. Đỉnh u và v luôn là các đỉnh treo.
+D. Loại bỏ cạnh (u, v) làm tăng số thành phần liên thông của đồ thị.
 ANSWER: D
 
-Q: Nghĩa của từ "发烧" (fā shāo) là gì?
-A. trắng
-B. phát sốt
-C. lớn
-D. cách, biện pháp
+Q: Ma trận kề của đồ thị vô hướng G = <V, E> có tính chất:
+A. Là ma trận đối xứng.
+B. Là ma trận đường chéo trên.
+C. Là ma trận đơn vị.
+D. Là ma trận không đối xứng.
+ANSWER: A
+
+Q: Tổng các phần tử ma trận kề của đồ thị vô hướng G = <V, E> đúng bằng:
+A. Tổng bán đỉnh bậc ra của tất cả các đỉnh.
+B. Hai lần số cạnh của đồ thị.
+C. Số cạnh của đồ thị.
+D. Một nửa số cạnh của đồ thị.
 ANSWER: B
 
-Q: Nghĩa của từ "感冒" (gǎn mào) là gì?
-A. cảm mạo
-B. em trai
-C. cho
-D. được (trợ từ bổ ngữ)
-ANSWER: A
-
-Q: Nghĩa của từ "健康" (jiàn kāng) là gì?
-A. kilo gam
-B. khỏe mạnh
-C. của, mà (trợ từ kết cấu)
-D. à, á, a
+Q: Đồ thị vô hướng G = <V, E> n đỉnh mỗi đỉnh có bậc là 6 thì có bao nhiêu cạnh?
+A. 2n cạnh
+B. 3n cạnh
+C. 6n cạnh
+D. n cạnh
 ANSWER: B
 
-UNIT 3
-Q: Nghĩa của từ "春" (chūn) là gì?
-A. nhé, đi, thôi
-B. đóng, tắt
-C. mọi người
-D. xuân
-ANSWER: D
-
-Q: Nghĩa của từ "冬" (dōng) là gì?
-A. siêu thị
-B. ôn tập
-C. điều hòa
-D. đông
-ANSWER: D
-
-Q: Nghĩa của từ "季节" (jì jié) là gì?
-A. biểu thị
-B. mùa
-C. lớn
-D. công viên
+Q: Trong đồ thị vô hướng, số đỉnh bậc lẻ là một số:
+A. Chính phương.
+B. Chia hết cho 2.
+C. Chia hết cho 3.
+D. Lẻ.
 ANSWER: B
 
-Q: Nghĩa của từ "刚才" (gāng cái) là gì?
-A. vui vẻ
-B. bố
-C. phim điện ảnh
-D. vừa mới (lúc nãy)
+Q: Ma trận kề của đồ thị có hướng G = <V, E>
+A. Là ma trận đối xứng.
+B. Là ma trận đơn vị.
+C. Là ma trận không đối xứng.
+D. Là ma trận đường chéo trên.
+ANSWER: C
+
+Q: Tổng các phần tử ma trận kề của đồ thị có hướng G = <V, E> đúng bằng:
+A. Cả ba phương án trên đều sai.
+B. Hai lần số cung của đồ thị.
+C. Số cung của đồ thị.
+D. Một nửa số cung của đồ thị.
+ANSWER: C
+
+Q: Tổng các phần tử hàng i, cột j của ma trận kề đồ thị vô hướng G = <V, E> đúng bằng:
+A. Một nửa số bậc của đỉnh i, đỉnh j.
+B. Cả ba phương án trên đều sai.
+C. Hai lần số bậc của đỉnh i, đỉnh j.
+D. Bậc của đỉnh i, đỉnh j.
 ANSWER: D
 
-Q: Nghĩa của từ "才" (cái) là gì?
-A. vô cùng, rất
-B. mấy
-C. đũa
-D. vừa nãy, hồi nãy
-ANSWER: D
-
-Q: Nghĩa của từ "迟到" (chí dào) là gì?
-A. công việc
-B. để, đặt
-C. áo sơ mi
-D. đến trễ
-ANSWER: D
-
-Q: Nghĩa của từ "点" (diǎn) là gì?
-A. đói
-B. giờ, điểm
-C. mũi
-D. khỏe mạnh
-ANSWER: B
-
-Q: Nghĩa của từ "分" (fēn) là gì?
-A. phút
-B. con trai
-C. yên tâm
-D. vui vẻ
+Q: Tổng các phần tử hàng i, cột j của ma trận kề đồ thị có hướng G = <V, E> đúng bằng:
+A. Bán đỉnh bậc ra của đỉnh i, bán đỉnh bậc vào đỉnh j.
+B. Bán đỉnh bậc vào của đỉnh i, bán đỉnh bậc vào đỉnh j.
+C. Bán đỉnh bậc vào của đỉnh i, bán đỉnh bậc ra đỉnh j.
+D. Bán đỉnh bậc ra của đỉnh i, bán đỉnh bậc vào đỉnh j.
 ANSWER: A
 
-Q: Nghĩa của từ "分钟" (fēn zhōng) là gì?
-A. đông
-B. đóng, tắt
-C. phút
-D. 1 trăm
-ANSWER: C
-
-Q: Nghĩa của từ "刮风" (guā fēng) là gì?
-A. nổi gió
-B. Bắc Kinh
-C. gần đây
-D. đồ đạc
-ANSWER: A
-
-Q: Nghĩa của từ "北方" (běi fāng) là gì?
-A. lấy (câu chữ ba)
-B. đèn
-C. phía bắc
-D. yêu
-ANSWER: C
-
-Q: Nghĩa của từ "东" (dōng) là gì?
-A. đông
-B. đũa
-C. thấp
-D. phút
-ANSWER: A
-
-UNIT 4
-Q: Nghĩa của từ "家" (jiā) là gì?
-A. quan hệ
-B. đương nhiên
-C. nhà
-D. bản đồ
-ANSWER: C
-
-Q: Nghĩa của từ "房间" (fáng jiān) là gì?
-A. thang máy
-B. chó
-C. công việc
-D. phòng
+Q: Cho đồ thị có hướng G = <V, E>. Khẳng định nào đúng trong những khẳng định dưới đây:
+A. Tổng bán bậc ra khác Tổng bán bậc vào khác số cung |E|.
+B. Tổng bán bậc ra bằng Tổng bán bậc vào khác số cung |E|.
+C. Tổng bán bậc ra khác Tổng bán bậc vào bằng số cung |E|.
+D. Tổng bán bậc ra bằng Tổng bán bậc vào bằng số cung |E|.
 ANSWER: D
 
-Q: Nghĩa của từ "厨房" (chú fáng) là gì?
-A. phòng bếp
-B. đến, tới
-C. đũa
-D. nhà
-ANSWER: A
-
-Q: Nghĩa của từ "地方" (dì fang) là gì?
-A. mặc
-B. kiểm tra
-C. được (trợ từ bổ ngữ)
-D. nơi, địa phương
+Q: Đồ thị đầy đủ K_n có bao nhiêu cạnh?
+A. (n-1)^2 cạnh.
+B. 2n cạnh.
+C. 2n-1 cạnh.
+D. (n(n-1))/2 cạnh.
 ANSWER: D
 
-Q: Nghĩa của từ "附近" (fù jìn) là gì?
-A. phát sốt
-B. bản đồ
-C. gần đây
-D. đến trễ
-ANSWER: C
-
-Q: Nghĩa của từ "城市" (chéng shì) là gì?
-A. từ ngữ
-B. thành phố
-C. máy tính
-D. 1 trăm
-ANSWER: B
-
-Q: Nghĩa của từ "北京" (běi jīng) là gì?
-A. (trợ từ trạng ngữ)
-B. đương nhiên
-C. trà
-D. Bắc Kinh
+Q: Đồ thị bánh xe C_n có bao nhiêu cạnh?
+A. 2n-1 cạnh.
+B. (n-1) cạnh.
+C. (n(n-1))/2 cạnh.
+D. n cạnh.
 ANSWER: D
-
-Q: Nghĩa của từ "超市" (chāo shì) là gì?
-A. mọi người
-B. đông
-C. siêu thị
-D. từ
-ANSWER: C
-
-Q: Nghĩa của từ "饭馆" (fàn guǎn) là gì?
-A. 1 trăm
-B. đừng
-C. nhà hàng
-D. sai, lỗi
-ANSWER: C
-
-Q: Nghĩa của từ "宾馆" (bīn guǎn) là gì?
-A. ăn
-B. khách sạn
-C. nói với
-D. giờ, điểm
-ANSWER: B
-
-Q: Nghĩa của từ "办公室" (bàn gōng shì) là gì?
-A. văn phòng
-B. biểu diễn
-C. thấp
-D. chiếc, kiện
-ANSWER: A
-
-Q: Nghĩa của từ "公司" (gōng sī) là gì?
-A. công ty
-B. bao nhiêu
-C. của, mà (trợ từ kết cấu)
-D. mang, đem
-ANSWER: A
-
-Q: Nghĩa của từ "公园" (gōng yuán) là gì?
-A. mùa
-B. công viên
-C. kiểm tra
-D. ca hát
-ANSWER: B
-
-UNIT 5
-Q: Nghĩa của từ "东西" (dōng xi) là gì?
-A. đồ đạc
-B. gần đây
-C. phục vụ viên
-D. à, á, a
-ANSWER: A
-
-Q: Nghĩa của từ "包" (bāo) là gì?
-A. máy bay
-B. tầng
-C. túi, gói
-D. cỏ
-ANSWER: C
-
-Q: Nghĩa của từ "衬衫" (chèn shān) là gì?
-A. no
-B. áo sơ mi
-C. công viên
-D. yên tâm
-ANSWER: B
-
-Q: Nghĩa của từ "裤子" (kù zi) là gì?
-A. quần
-B. 8
-C. sự thay đổi
-D. phút
-ANSWER: A
-
-Q: Nghĩa của từ "杯子" (bēi zi) là gì?
-A. phục vụ viên
-B. xe lửa, tàu điện
-C. khỏe mạnh
-D. ly, cốc
-ANSWER: D
-
-Q: Nghĩa của từ "筷子" (kuài zi) là gì?
-A. ly, cốc
-B. câu chuyện
-C. đũa
-D. giúp đỡ
-ANSWER: C
-
-Q: Nghĩa của từ "冰箱" (bīng xiāng) là gì?
-A. 8
-B. phút
-C. dài
-D. tủ lạnh
-ANSWER: D
-
-Q: Nghĩa của từ "空调" (kōng tiáo) là gì?
-A. gần đây
-B. cơ hội
-C. điều hòa
-D. người khác
-ANSWER: C
-
-Q: Nghĩa của từ "灯" (dēng) là gì?
-A. vừa nãy, hồi nãy
-B. sai, lỗi
-C. đèn
-D. thực đơn
-ANSWER: C
-
-Q: Nghĩa của từ "报纸" (bào zhǐ) là gì?
-A. nhà
-B. di chuyển
-C. email
-D. báo giấy
-ANSWER: D
-
-Q: Nghĩa của từ "地图" (dì tú) là gì?
-A. miệng
-B. thuyền
-C. bản đồ
-D. sạch sẽ
-ANSWER: C
-
-Q: Nghĩa của từ "菜单" (cài dān) là gì?
-A. 8
-B. dì
-C. thực đơn
-D. cỏ
-ANSWER: C
-
-Q: Nghĩa của từ "出租车" (chū zū chē) là gì?
-A. khỏe mạnh
-B. hơn nữa, mà còn
-C. xe taxi
-D. cái, con (lượng từ)
-ANSWER: C
-
-Q: Nghĩa của từ "公共汽车" (gōng gòng qì chē) là gì?
-A. phát sốt
-B. xe buýt
-C. kém, sai biệt
-D. vô cùng, rất
-ANSWER: B
-
-Q: Nghĩa của từ "地铁" (dì tiě) là gì?
-A. thuận tiện
-B. xe lửa, tàu điện
-C. tầng
-D. đồng, cục
-ANSWER: B
-
-Q: Nghĩa của từ "飞机" (fēi jī) là gì?
-A. sạch sẽ
-B. chó
-C. máy bay
-D. quan hệ
-ANSWER: C
-
-Q: Nghĩa của từ "船" (chuán) là gì?
-A. máy tính
-B. thuyền
-C. cỏ
-D. yên tâm
-ANSWER: B
-
-Q: Nghĩa của từ "电梯" (diàn tī) là gì?
-A. thang máy
-B. gọi điện thoại
-C. giúp đỡ
-D. sai, lỗi
-ANSWER: A
-
-Q: Nghĩa của từ "电脑" (diàn nǎo) là gì?
-A. à, á, a
-B. máy tính
-C. email
-D. lo lắng
-ANSWER: B
-
-Q: Nghĩa của từ "电视" (diàn shì) là gì?
-A. tivi
-B. mọi người
-C. cái, con (lượng từ)
-D. à, á, a
-ANSWER: A
-
-Q: Nghĩa của từ "电子邮件" (diàn zǐ yóu jiàn) là gì?
-A. email
-B. của, mà (trợ từ kết cấu)
-C. mũi
-D. áo sơ mi
-ANSWER: A
-
-UNIT 6
-Q: Nghĩa của từ "吃" (chī) là gì?
-A. ăn
-B. bị, được
-C. vui vẻ
-D. từ ngữ
-ANSWER: A
-
-Q: Nghĩa của từ "菜" (cài) là gì?
-A. ngoài ra
-B. 8
-C. email
-D. món ăn
-ANSWER: D
-
-Q: Nghĩa của từ "茶" (chá) là gì?
-A. lần
-B. trà
-C. nửa
-D. phát sốt
-ANSWER: B
-
-Q: Nghĩa của từ "蛋糕" (dàn gāo) là gì?
-A. bánh ngọt, bánh kem
-B. vừa nãy, hồi nãy
-C. gần đây
-D. giúp đỡ
-ANSWER: A
-
-Q: Nghĩa của từ "饱" (bǎo) là gì?
-A. đừng
-B. vui vẻ
-C. con trai
-D. no
-ANSWER: D
-
-Q: Nghĩa của từ "饿" (è) là gì?
-A. phút
-B. vừa mới (lúc nãy)
-C. đói
-D. quyển
-ANSWER: C
-
-UNIT 7
-Q: Nghĩa của từ "班" (bān) là gì?
-A. (trợ từ trạng ngữ)
-B. xuất hiện
-C. phút
-D. lớp học
-ANSWER: D
-
-Q: Nghĩa của từ "课" (kè) là gì?
-A. kiểm tra
-B. bài học
-C. người khác
-D. hơn (câu so sánh)
-ANSWER: B
-
-Q: Nghĩa của từ "成绩" (chéng jì) là gì?
-A. thành tích
-B. tivi
-C. thuận tiện
-D. so sánh, tương đối
-ANSWER: A
-
-Q: Nghĩa của từ "词语" (cí yǔ) là gì?
-A. yêu thích, sở thích
-B. từ ngữ
-C. cực
-D. nhớ
-ANSWER: B
-
-Q: Nghĩa của từ "故事" (gù shi) là gì?
-A. đọc
-B. câu chuyện
-C. được (trợ từ bổ ngữ)
-D. nhanh
-ANSWER: B
-
-Q: Nghĩa của từ "工作" (gōng zuò) là gì?
-A. tham gia
-B. công việc
-C. xuân
-D. nhớ
-ANSWER: B
-
-Q: Nghĩa của từ "机会" (jī huì) là gì?
-A. à, á, a
-B. miệng
-C. thành tích
-D. cơ hội
-ANSWER: D
-
-Q: Nghĩa của từ "办法" (bàn fǎ) là gì?
-A. phát hiện
-B. email
-C. của, mà (trợ từ kết cấu)
-D. cách, biện pháp
-ANSWER: D
-
-Q: Nghĩa của từ "唱歌" (chàng gē) là gì?
-A. gọi điện thoại
-B. ca hát
-C. hiểu
-D. phục vụ viên
-ANSWER: B
-
-Q: Nghĩa của từ "电影" (diàn yǐng) là gì?
-A. đến
-B. giờ, điểm
-C. phim điện ảnh
-D. ngoài ra
-ANSWER: C
-
-Q: Nghĩa của từ "比赛" (bǐ sài) là gì?
-A. phía bắc
-B. giờ, điểm
-C. thi đấu
-D. vô cùng, rất
-ANSWER: C
-
-Q: Nghĩa của từ "表演" (biǎo yǎn) là gì?
-A. biểu diễn
-B. thứ nhất
-C. đừng
-D. trà
-ANSWER: A
-
-Q: Nghĩa của từ "打篮球" (dǎ lán qiú) là gì?
-A. 1 trăm
-B. dì
-C. thành tích
-D. chơi bóng rổ
-ANSWER: D
-
-Q: Nghĩa của từ "复习" (fù xí) là gì?
-A. di chuyển
-B. vô cùng, rất
-C. ôn tập
-D. thi đấu
-ANSWER: C
-
-UNIT 8
-Q: Nghĩa của từ "动物" (dòng wù) là gì?
-A. động vật
-B. no
-C. ra ngoài
-D. công ty
-ANSWER: A
-
-Q: Nghĩa của từ "狗" (gǒu) là gì?
-A. chó
-B. thi đấu
-C. khách
-D. bị, được
-ANSWER: A
-
-Q: Nghĩa của từ "草" (cǎo) là gì?
-A. biết bao
-B. đừng
-C. đói
-D. cỏ
-ANSWER: D
-
-UNIT 9
-Q: Nghĩa của từ "帮忙" (bāng máng) là gì?
-A. hơn (câu so sánh)
-B. tập luyện
-C. dám
-D. giúp đỡ
-ANSWER: D
-
-Q: Nghĩa của từ "帮助" (bāng zhù) là gì?
-A. phòng bếp
-B. giúp đỡ
-C. đến trễ
-D. nhanh
-ANSWER: B
-
-Q: Nghĩa của từ "搬" (bān) là gì?
-A. di chuyển
-B. đói
-C. hơn (câu so sánh)
-D. 8
-ANSWER: A
-
-Q: Nghĩa của từ "带" (dài) là gì?
-A. đói
-B. tham gia
-C. văn phòng
-D. mang, đem
-ANSWER: D
-
-Q: Nghĩa của từ "穿" (chuān) là gì?
-A. dì
-B. thuyền
-C. cao
-D. mặc
-ANSWER: D
-
-Q: Nghĩa của từ "放" (fàng) là gì?
-A. sai, lỗi
-B. để, đặt
-C. dài
-D. hơn (câu so sánh)
-ANSWER: B
-
-Q: Nghĩa của từ "关" (guān) là gì?
-A. công việc
-B. di chuyển
-C. đóng, tắt
-D. kém, sai biệt
-ANSWER: C
-
-Q: Nghĩa của từ "打扫" (dǎ sǎo) là gì?
-A. hơn nữa, mà còn
-B. Bắc Kinh
-C. đóng, tắt
-D. dọn dẹp
-ANSWER: D
-
-Q: Nghĩa của từ "锻炼" (duàn liàn) là gì?
-A. tập luyện
-B. phòng bếp
-C. biểu thị
-D. thang máy
-ANSWER: A
-
-Q: Nghĩa của từ "读" (dú) là gì?
-A. phải (nhấn mạnh)
-B. vừa mới (lúc nãy)
-C. máy tính
-D. đọc
-ANSWER: D
-
-Q: Nghĩa của từ "懂" (dǒng) là gì?
-A. phút
-B. hiểu
-C. cơ hội
-D. mang, đem
-ANSWER: B
-
-Q: Nghĩa của từ "记得" (jì de) là gì?
-A. căn cứ
-B. ngoài ra
-C. nhớ
-D. hơn (câu so sánh)
-ANSWER: C
-
-Q: Nghĩa của từ "检查" (jiǎn chá) là gì?
-A. kiểm tra
-B. xe taxi
-C. khách
-D. trà
-ANSWER: A
-
-Q: Nghĩa của từ "告诉" (gào su) là gì?
-A. đợi
-B. di chuyển
-C. nói với
-D. đến, tới
-ANSWER: C
-
-Q: Nghĩa của từ "打电话" (dǎ diàn huà) là gì?
-A. giúp đỡ
-B. gọi điện thoại
-C. động vật
-D. thang máy
-ANSWER: B
-
-Q: Nghĩa của từ "参加" (cān jiā) là gì?
-A. tham gia
-B. xe lửa, tàu điện
-C. máy bay
-D. mùa
-ANSWER: A
-
-Q: Nghĩa của từ "变化" (biàn huà) là gì?
-A. sự thay đổi
-B. tai
-C. mùa
-D. không
-ANSWER: A
-
-Q: Nghĩa của từ "表示" (biǎo shì) là gì?
-A. biểu thị
-B. mang, đem
-C. của, mà (trợ từ kết cấu)
-D. thang máy
-ANSWER: A
-
-Q: Nghĩa của từ "发现" (fā xiàn) là gì?
-A. 1 trăm
-B. giúp đỡ
-C. tai
-D. phát hiện
-ANSWER: D
-
-Q: Nghĩa của từ "出现" (chū xiàn) là gì?
-A. kém, sai biệt
-B. để, đặt
-C. biểu thị
-D. xuất hiện
-ANSWER: D
-
-Q: Nghĩa của từ "出" (chū) là gì?
-A. thực đơn
-B. cơ hội
-C. ra ngoài
-D. đóng, tắt
-ANSWER: C
-
-Q: Nghĩa của từ "到" (dào) là gì?
-A. tầng
-B. con trai
-C. đến, tới
-D. giờ, điểm
-ANSWER: C
-
-Q: Nghĩa của từ "等" (děng) là gì?
-A. đợi
-B. email
-C. đơn giản
-D. đoạn, phân đoạn
-ANSWER: A
-
-Q: Nghĩa của từ "哭" (kū) là gì?
-A. xin lỗi
-B. ăn
-C. khóc
-D. cỏ
-ANSWER: C
-
-UNIT 10
-Q: Nghĩa của từ "爱" (ài) là gì?
-A. yêu
-B. phim điện ảnh
-C. xuân
-D. lớp học
-ANSWER: A
-
-Q: Nghĩa của từ "爱好" (ài hào) là gì?
-A. yêu thích, sở thích
-B. phòng bếp
-C. đơn giản
-D. giúp đỡ
-ANSWER: A
-
-Q: Nghĩa của từ "高兴" (gāo xìng) là gì?
-A. ca hát
-B. mọi người
-C. vui vẻ
-D. ôn tập
-ANSWER: C
-
-Q: Nghĩa của từ "快乐" (kuài lè) là gì?
-A. hạnh phúc
-B. trà
-C. tai
-D. đừng
-ANSWER: A
-
-Q: Nghĩa của từ "放心" (fàng xīn) là gì?
-A. cái, con (lượng từ)
-B. dài
-C. vui vẻ
-D. yên tâm
-ANSWER: D
-
-Q: Nghĩa của từ "担心" (dān xīn) là gì?
-A. thực đơn
-B. lo lắng
-C. bố
-D. phải, đúng
-ANSWER: B
-
-Q: Nghĩa của từ "关心" (guān xīn) là gì?
-A. bao nhiêu
-B. đến, tới
-C. quan tâm
-D. thang máy
-ANSWER: C
-
-Q: Nghĩa của từ "敢" (gǎn) là gì?
-A. tập luyện
-B. à, á, a
-C. dám
-D. ca hát
-ANSWER: C
-
-Q: Nghĩa của từ "安静" (ān jìng) là gì?
-A. càng
-B. hiểu
-C. khách sạn
-D. yên tĩnh
-ANSWER: D
-
-Q: Nghĩa của từ "聪明" (cōng míng) là gì?
-A. thông minh
-B. phòng
-C. siêu thị
-D. hơn (câu so sánh)
-ANSWER: A
-
-Q: Nghĩa của từ "干净" (gān jìng) là gì?
-A. ăn
-B. so sánh, tương đối
-C. đóng, tắt
-D. sạch sẽ
-ANSWER: D
-
-Q: Nghĩa của từ "简单" (jiǎn dān) là gì?
-A. nơi, địa phương
-B. thi đấu
-C. anh trai
-D. đơn giản
-ANSWER: D
-
-Q: Nghĩa của từ "方便" (fāng biàn) là gì?
-A. ngắn
-B. phút
-C. khách
-D. thuận tiện
-ANSWER: D
-
-Q: Nghĩa của từ "大" (dà) là gì?
-A. quan tâm
-B. lớn
-C. dọn dẹp
-D. bao nhiêu
-ANSWER: B
-
-Q: Nghĩa của từ "高" (gāo) là gì?
-A. cao
-B. tham gia
-C. đũa
-D. ly, cốc
-ANSWER: A
-
-Q: Nghĩa của từ "矮" (ǎi) là gì?
-A. thực đơn
-B. thấp
-C. phục vụ viên
-D. dọn dẹp
-ANSWER: B
-
-Q: Nghĩa của từ "低" (dī) là gì?
-A. đồng, cục
-B. càng
-C. khóc
-D. thấp
-ANSWER: D
-
-Q: Nghĩa của từ "长" (cháng) là gì?
-A. xuân
-B. phải, đúng
-C. lo lắng
-D. dài
-ANSWER: D
-
-Q: Nghĩa của từ "短" (duǎn) là gì?
-A. nửa
-B. ngắn
-C. di chuyển
-D. chơi bóng rổ
-ANSWER: B
-
-Q: Nghĩa của từ "快" (kuài) là gì?
-A. nhanh
-B. đừng khách sáo
-C. thành tích
-D. no
-ANSWER: A
-
-Q: Nghĩa của từ "白" (bái) là gì?
-A. đến, tới
-B. trắng
-C. tủ lạnh
-D. khách sạn
-ANSWER: B
-
-Q: Nghĩa của từ "对" (duì) là gì?
-A. gọi điện thoại
-B. đừng khách sáo
-C. thấp
-D. phải, đúng
-ANSWER: D
-
-Q: Nghĩa của từ "错" (cuò) là gì?
-A. sai, lỗi
-B. món ăn
-C. từ ngữ
-D. phút
-ANSWER: A
-
-UNIT 11
-Q: Nghĩa của từ "第一" (dì yī) là gì?
-A. biểu diễn
-B. thứ nhất
-C. bị, được
-D. nhanh
-ANSWER: B
-
-Q: Nghĩa của từ "二" (èr) là gì?
-A. 2
-B. anh trai
-C. cách, biện pháp
-D. lấy (câu chữ ba)
-ANSWER: A
-
-Q: Nghĩa của từ "八" (bā) là gì?
-A. tủ lạnh
-B. từ
-C. 8
-D. cùng, với
-ANSWER: C
-
-Q: Nghĩa của từ "百" (bǎi) là gì?
-A. nhé, đi, thôi
-B. mang, đem
-C. 1 trăm
-D. quan hệ
-ANSWER: C
-
-Q: Nghĩa của từ "半" (bàn) là gì?
-A. được (trợ từ bổ ngữ)
-B. no
-C. Bắc Kinh
-D. nửa
-ANSWER: D
-
-Q: Nghĩa của từ "多" (duō) là gì?
-A. phục vụ viên
-B. máy bay
-C. giúp đỡ
-D. nhiều
-ANSWER: D
-
-Q: Nghĩa của từ "多少" (duō shǎo) là gì?
-A. thành tích
-B. bao nhiêu
-C. vui vẻ
-D. mang, đem
-ANSWER: B
-
-Q: Nghĩa của từ "几" (jǐ) là gì?
-A. vui vẻ
-B. đoạn, phân đoạn
-C. quyển
-D. mấy
-ANSWER: D
-
-Q: Nghĩa của từ "个" (gè) là gì?
-A. cái, con (lượng từ)
-B. công viên
-C. bánh ngọt, bánh kem
-D. quan tâm
-ANSWER: A
-
-Q: Nghĩa của từ "本" (běn) là gì?
-A. quyển
-B. tivi
-C. cho
-D. thực đơn
-ANSWER: A
-
-Q: Nghĩa của từ "件" (jiàn) là gì?
-A. chiếc, kiện
-B. đóng, tắt
-C. để, đặt
-D. cơ hội
-ANSWER: A
-
-Q: Nghĩa của từ "块" (kuài) là gì?
-A. đồng, cục
-B. bánh ngọt, bánh kem
-C. yêu thích, sở thích
-D. quần
-ANSWER: A
-
-Q: Nghĩa của từ "层" (céng) là gì?
-A. căn cứ
-B. tầng
-C. khách sạn
-D. bố
-ANSWER: B
-
-Q: Nghĩa của từ "段" (duàn) là gì?
-A. em trai
-B. ngắn
-C. nhé, đi, thôi
-D. đoạn, phân đoạn
-ANSWER: D
-
-Q: Nghĩa của từ "次" (cì) là gì?
-A. 2
-B. tủ lạnh
-C. lần
-D. phải (nhấn mạnh)
-ANSWER: C
-
-Q: Nghĩa của từ "公斤" (gōng jīn) là gì?
-A. thang máy
-B. biểu diễn
-C. kilo gam
-D. công ty
-ANSWER: C
-
-UNIT 12
-Q: Nghĩa của từ "不" (bù) là gì?
-A. nổi gió
-B. phải, đúng
-C. không
-D. bánh ngọt, bánh kem
-ANSWER: C
-
-Q: Nghĩa của từ "别" (bié) là gì?
-A. của, mà (trợ từ kết cấu)
-B. công việc
-C. thấp
-D. đừng
-ANSWER: D
-
-Q: Nghĩa của từ "必须" (bì xū) là gì?
-A. phải (nhấn mạnh)
-B. hiểu
-C. quan hệ
-D. phục vụ viên
-ANSWER: A
-
-Q: Nghĩa của từ "都" (dōu) là gì?
-A. hơn nữa, mà còn
-B. sạch sẽ
-C. đều
-D. nhà
-ANSWER: C
-
-Q: Nghĩa của từ "比较" (bǐ jiào) là gì?
-A. sạch sẽ
-B. so sánh, tương đối
-C. yên tâm
-D. con trai
-ANSWER: B
-
-Q: Nghĩa của từ "非常" (fēi cháng) là gì?
-A. chơi bóng rổ
-B. bánh ngọt, bánh kem
-C. yên tĩnh
-D. vô cùng, rất
-ANSWER: D
-
-Q: Nghĩa của từ "极" (jí) là gì?
-A. ngoài ra
-B. sự thay đổi
-C. cực
-D. di chuyển
-ANSWER: C
-
-Q: Nghĩa của từ "更" (gèng) là gì?
-A. đông
-B. hiểu
-C. càng
-D. cách, biện pháp
-ANSWER: C
-
-Q: Nghĩa của từ "多么" (duō me) là gì?
-A. nhưng
-B. biết bao
-C. phục vụ viên
-D. (trợ từ trạng ngữ)
-ANSWER: B
-
-Q: Nghĩa của từ "从" (cóng) là gì?
-A. phía bắc
-B. từ
-C. nói với
-D. thi đấu
-ANSWER: B
-
-Q: Nghĩa của từ "到" (dào) là gì?
-A. căn cứ
-B. được (trợ từ bổ ngữ)
-C. đến
-D. à, á, a
-ANSWER: C
-
-Q: Nghĩa của từ "给" (gěi) là gì?
-A. dọn dẹp
-B. ăn
-C. cho
-D. cơ hội
-ANSWER: C
-
-Q: Nghĩa của từ "跟" (gēn) là gì?
-A. cỏ
-B. động vật
-C. cùng, với
-D. biết bao
-ANSWER: C
-
-Q: Nghĩa của từ "被" (bèi) là gì?
-A. thang máy
-B. túi, gói
-C. bị, được
-D. máy bay
-ANSWER: C
-
-Q: Nghĩa của từ "把" (bǎ) là gì?
-A. đến trễ
-B. quần
-C. khách
-D. lấy (câu chữ ba)
-ANSWER: D
-
-Q: Nghĩa của từ "根据" (gēn jù) là gì?
-A. phút
-B. quan hệ
-C. đừng
-D. căn cứ
-ANSWER: D
-
-Q: Nghĩa của từ "除了" (chú le) là gì?
-A. đều
-B. ngoài ra
-C. nói với
-D. bố
-ANSWER: B
-
-Q: Nghĩa của từ "但是" (dàn shì) là gì?
-A. đọc
-B. nhưng
-C. mũi
-D. phục vụ viên
-ANSWER: B
-
-Q: Nghĩa của từ "而且" (ér qiě) là gì?
-A. hơn nữa, mà còn
-B. đồng, cục
-C. lần
-D. đừng khách sáo
-ANSWER: A
-
-Q: Nghĩa của từ "当然" (dāng rán) là gì?
-A. quan tâm
-B. người khác
-C. đương nhiên
-D. tập luyện
-ANSWER: C
-
-Q: Nghĩa của từ "差" (chà) là gì?
-A. nhưng
-B. vô cùng, rất
-C. ngắn
-D. kém, sai biệt
-ANSWER: D
-
-Q: Nghĩa của từ "关系" (guān xi) là gì?
-A. cùng, với
-B. yên tâm
-C. quan hệ
-D. áo sơ mi
-ANSWER: C
-
-Q: Nghĩa của từ "比" (bǐ) là gì?
-A. thuận tiện
-B. cái, con (lượng từ)
-C. gọi điện thoại
-D. hơn (câu so sánh)
-ANSWER: D
-
-Q: Nghĩa của từ "地" (de) là gì?
-A. vui vẻ
-B. gần đây
-C. (trợ từ trạng ngữ)
-D. ra ngoài
-ANSWER: C
-
-Q: Nghĩa của từ "的" (de) là gì?
-A. chơi bóng rổ
-B. của, mà (trợ từ kết cấu)
-C. tầng
-D. ôn tập
-ANSWER: B
-
-Q: Nghĩa của từ "得" (de) là gì?
-A. mũi
-B. dì
-C. được (trợ từ bổ ngữ)
-D. phút
-ANSWER: C
-
-Q: Nghĩa của từ "啊" (a) là gì?
-A. à, á, a
-B. chiếc, kiện
-C. cách, biện pháp
-D. giờ, điểm
-ANSWER: A
-
-Q: Nghĩa của từ "吧" (ba) là gì?
-A. đến
-B. nhé, đi, thôi
-C. email
-D. câu chuyện
-ANSWER: B
-
-Q: Nghĩa của từ "不客气" (bú kè qi) là gì?
-A. nơi, địa phương
-B. đừng khách sáo
-C. được (trợ từ bổ ngữ)
-D. cao
-ANSWER: B
-
-Q: Nghĩa của từ "对不起" (duì bù qǐ) là gì?
-A. phục vụ viên
-B. hiểu
-C. xin lỗi
-D. lấy (câu chữ ba)
-ANSWER: C
-
