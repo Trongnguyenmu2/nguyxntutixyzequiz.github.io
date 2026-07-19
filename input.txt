@@ -1,182 +1,141 @@
-UNIT 1
-Q: Cho đồ thị G = <V, E> hãy cho biết đâu là tính chất đúng của đơn đồ thị vô hướng:
-A. Giữa hai đỉnh bất kì i, j thuộc V có thể có nhiều hơn một cung nối; có kể đến thứ tự các đỉnh.
-B. Giữa hai đỉnh bất kì i, j thuộc V có nhiều nhất một cung nối; có kể đến thứ tự các đỉnh.
-C. Giữa hai đỉnh bất kì i, j thuộc V có nhiều nhất một cạnh nối; không kể đến thứ tự các đỉnh.
-D. Giữa hai đỉnh bất kì i, j thuộc V có thể có nhiều hơn một cạnh nối; không kể đến thứ tự các đỉnh.
+UNIT 2
+
+Q: Từ vựng "국제결혼" (guk-je-gyeol-hon) có nghĩa là gì?
+A. Di trú kết hôn
+B. Kết hôn quốc tế
+C. Quyền định cư vĩnh viễn
+D. Nhập quốc tịch
+ANSWER: B
+
+Q: Từ vựng "영주권" (yeong-ju-gwon) có nghĩa là gì?
+A. Quyền định cư vĩnh viễn
+B. Nhập quốc tịch
+C. Thẻ đăng ký người nước ngoài
+D. Gia hạn thời gian cư trú
+ANSWER: A
+
+Q: Từ vựng "체류기간 연장" (che-ryu-gi-gan yeon-jang) có nghĩa là gì?
+A. Đăng ký kết hôn
+B. Cư trú bất hợp pháp
+C. Gia hạn thời gian cư trú
+D. Cấp thị thực/visa
 ANSWER: C
 
-Q: Cho đồ thị G = <V, E>, hãy cho biết đâu là tính chất đúng của đa đồ thị vô hướng:
-A. Giữa hai đỉnh bất kì i, j thuộc V có thể có nhiều hơn một cạnh nối; không kể đến thứ tự các đỉnh.
-B. Giữa hai đỉnh bất kì i, j thuộc V có thể có nhiều hơn một cung nối; có kể đến thứ tự các đỉnh.
-C. Giữa hai đỉnh bất kì i, j thuộc V có nhiều nhất một cạnh nối; không kể đến thứ tự các đỉnh.
-D. Giữa hai đỉnh bất kì i, j thuộc V có nhiều nhất một cung nối; có kể đến thứ tự các đỉnh.
+Q: Từ vựng "외국인등록증" (oe-guk-in-deung-rok-jeung) có nghĩa là gì?
+A. Thẻ đăng ký người nước ngoài
+B. Giấy chứng nhận cơ bản
+C. Giấy chứng nhận quan hệ gia đình
+D. Giấy bảo lãnh nhân thân
 ANSWER: A
 
-Q: Cho đồ thị G = <V, E>, hãy cho biết đâu là tính chất đúng của đơn đồ thị có hướng:
-A. Giữa hai đỉnh bất kì i, j thuộc V có nhiều nhất một cung nối; có kể đến thứ tự các đỉnh.
-B. Giữa hai đỉnh bất kì i, j thuộc V có nhiều nhất một cạnh nối; không kể đến thứ tự các đỉnh.
-C. Giữa hai đỉnh bất kì i, j thuộc V có thể có nhiều hơn một cạnh nối; không kể đến thứ tự các đỉnh.
-D. Giữa hai đỉnh bất kì i, j thuộc V có thể có nhiều hơn một cung nối; có kể đến thứ tự các đỉnh.
-ANSWER: A
-
-Q: Cho đồ thị G = <V, E>, hãy cho biết đâu là tính chất đúng của đa đồ thị có hướng:
-A. Giữa hai đỉnh bất kì i, j thuộc V có thể có nhiều hơn một cạnh nối; không kể đến thứ tự các đỉnh.
-B. Giữa hai đỉnh bất kì i, j thuộc V có thể có nhiều hơn một cung nối; có kể đến thứ tự các đỉnh.
-C. Giữa hai đỉnh bất kì i, j thuộc V có nhiều nhất một cung nối; có kể đến thứ tự các đỉnh.
-D. Giữa hai đỉnh bất kì i, j thuộc V có nhiều nhất một cạnh nối; không kể đến thứ tự các đỉnh.
-ANSWER: B
-
-Q: Nếu G = <V, E> là một đơn đồ thị vô hướng thì:
-A. G không có khuyên.
-B. G có khuyên.
-C. G có thể có cạnh bội.
-D. G không có cạnh bội.
-ANSWER: D
-
-Q: Nếu G = <V, E> là một đa đồ thị vô hướng thì:
-A. G không có cạnh bội.
-B. G không có khuyên.
-C. G có khuyên.
-D. G có thể có cạnh bội.
-ANSWER: D
-
-Q: Nếu G = <V, E> là một đơn đồ thị có hướng thì:
-A. G không có khuyên.
-B. G có thể có cung bội.
-C. G có khuyên.
-D. G không có cung bội.
-ANSWER: D
-
-Q: Nếu G = <V, E> là một đa đồ thị có hướng thì:
-A. G có thể có cung bội.
-B. G không có cung bội.
-C. G có khuyên.
-D. G không có khuyên.
-ANSWER: A
-
-Q: Ta nói hai đỉnh u, v thuộc V của đồ thị G = <V, E> được gọi là kề nhau nếu:
-A. Có đường nối từ u đến v và từ v đến u.
-B. Có đường nối từ v đến u.
-C. Có đường nối từ u đến v.
-D. (u, v) là một cạnh (cung) của đồ thị.
-ANSWER: D
-
-Q: Ta gọi đỉnh v là đỉnh treo trong đồ thị vô hướng G = <V, E>
-A. Nếu bậc của đỉnh v là một số lẻ.
-B. Nếu bậc của đỉnh v là 0.
-C. Nếu bậc của đỉnh v là một số chẵn.
-D. Nếu bậc của đỉnh v là 1.
-ANSWER: D
-
-Q: Ta gọi đỉnh v là đỉnh cô lập trong đồ thị vô hướng G = <V, E>
-A. Nếu bậc của đỉnh v là một số chẵn.
-B. Nếu bậc của đỉnh v là 1.
-C. Nếu bậc của đỉnh v là 0.
-D. Nếu bậc của đỉnh v là một số lẻ.
+Q: Từ vựng "혼인신고" (hon-in-sin-go) có nghĩa là gì?
+A. Ly hôn thuận tình
+B. Đổ vỡ hôn nhân
+C. Đăng ký kết hôn
+D. Giấy chứng nhận quan hệ hôn nhân
 ANSWER: C
 
-Q: Đồ thị vô hướng G = <V, E> được gọi là liên thông nếu:
-A. Giữa hai đỉnh bất kì u, v thuộc V của G luôn tìm được đường đi.
-B. Nếu u thuộc V, thì tồn tại đỉnh v khác u sao cho v liên thông với u.
-C. Nếu u thuộc V thì với mọi v khác u đều kề với u.
-D. Nếu u thuộc V thì tồn tại đỉnh v khác u kề với u.
+Q: Từ vựng "불법체류" (bul-beop-che-ryu) có nghĩa là gì?
+A. Cư trú bất hợp pháp
+B. Thay đổi hoàn cảnh/sự cố
+C. Đổ vỡ hôn nhân
+D. Ly hôn đơn phương
 ANSWER: A
 
-Q: Đồ thị có hướng G = <V, E> được gọi là liên thông mạnh nếu:
-A. Giữa hai đỉnh bất kì u, v thuộc V của G luôn tìm được đường đi.
-B. Nếu u thuộc V, thì với mọi v khác u đều kề với u.
-C. Nếu u thuộc V, thì tồn tại đỉnh v khác u sao cho v liên thông với u.
-D. Nếu u thuộc V, thì tồn tại đỉnh v khác u kề với u.
-ANSWER: A
-
-Q: Đỉnh u thuộc V của đồ thị G = <V, E> được gọi là đỉnh khớp (hoặc đỉnh rẽ nhánh) nếu:
-A. Đỉnh u luôn là đỉnh cô lập.
-B. Loại bỏ đỉnh u và các cạnh liên thuộc với nó làm tăng số thành phần liên thông của đồ thị.
-C. Đỉnh u luôn là đỉnh treo.
-D. Loại bỏ đỉnh u và các cạnh liên thuộc với nó không làm tăng số thành phần liên thông của đồ thị.
+Q: Từ vựng "협의이혼" (hyeob-ui-i-hon) có nghĩa là gì?
+A. Bạo lực gia đình
+B. Ly hôn thuận tình
+C. Phân chia tài sản
+D. Tố tụng gia đình
 ANSWER: B
 
-Q: Cạnh (u, v) thuộc E của đồ thị G = <V, E> được gọi là cạnh cầu nếu:
-A. Loại bỏ đỉnh u, v làm tăng số thành phần liên thông của đồ thị.
-B. Loại bỏ cạnh (u, v) và các đỉnh u, v làm tăng số thành phần liên thông của đồ thị.
-C. Đỉnh u và v luôn là các đỉnh treo.
-D. Loại bỏ cạnh (u, v) làm tăng số thành phần liên thông của đồ thị.
-ANSWER: D
-
-Q: Ma trận kề của đồ thị vô hướng G = <V, E> có tính chất:
-A. Là ma trận đối xứng.
-B. Là ma trận đường chéo trên.
-C. Là ma trận đơn vị.
-D. Là ma trận không đối xứng.
-ANSWER: A
-
-Q: Tổng các phần tử ma trận kề của đồ thị vô hướng G = <V, E> đúng bằng:
-A. Tổng bán đỉnh bậc ra của tất cả các đỉnh.
-B. Hai lần số cạnh của đồ thị.
-C. Số cạnh của đồ thị.
-D. Một nửa số cạnh của đồ thị.
-ANSWER: B
-
-Q: Đồ thị vô hướng G = <V, E> n đỉnh mỗi đỉnh có bậc là 6 thì có bao nhiêu cạnh?
-A. 2n cạnh
-B. 3n cạnh
-C. 6n cạnh
-D. n cạnh
-ANSWER: B
-
-Q: Trong đồ thị vô hướng, số đỉnh bậc lẻ là một số:
-A. Chính phương.
-B. Chia hết cho 2.
-C. Chia hết cho 3.
-D. Lẻ.
-ANSWER: B
-
-Q: Ma trận kề của đồ thị có hướng G = <V, E>
-A. Là ma trận đối xứng.
-B. Là ma trận đơn vị.
-C. Là ma trận không đối xứng.
-D. Là ma trận đường chéo trên.
+Q: Từ vựng "가정폭력" (ga-jeong-pok-ryeok) có nghĩa là gì?
+A. Lệnh cấm tiếp cận
+B. Mâu thuẫn gia đình
+C. Bạo lực gia đình
+D. Bắt nạt/Tẩy chay
 ANSWER: C
 
-Q: Tổng các phần tử ma trận kề của đồ thị có hướng G = <V, E> đúng bằng:
-A. Cả ba phương án trên đều sai.
-B. Hai lần số cung của đồ thị.
-C. Số cung của đồ thị.
-D. Một nửa số cung của đồ thị.
-ANSWER: C
-
-Q: Tổng các phần tử hàng i, cột j của ma trận kề đồ thị vô hướng G = <V, E> đúng bằng:
-A. Một nửa số bậc của đỉnh i, đỉnh j.
-B. Cả ba phương án trên đều sai.
-C. Hai lần số bậc của đỉnh i, đỉnh j.
-D. Bậc của đỉnh i, đỉnh j.
+Q: Từ vựng "양육권" (yang-yuk-gwon) có nghĩa là gì?
+A. Quyền thăm nuôi
+B. Tiền cấp dưỡng nuôi con
+C. Quyền cha mẹ
+D. Quyền nuôi con
 ANSWER: D
 
-Q: Tổng các phần tử hàng i, cột j của ma trận kề đồ thị có hướng G = <V, E> đúng bằng:
-A. Bán đỉnh bậc ra của đỉnh i, bán đỉnh bậc vào đỉnh j.
-B. Bán đỉnh bậc vào của đỉnh i, bán đỉnh bậc vào đỉnh j.
-C. Bán đỉnh bậc vào của đỉnh i, bán đỉnh bậc ra đỉnh j.
-D. Bán đỉnh bậc ra của đỉnh i, bán đỉnh bậc vào đỉnh j.
+Q: Từ vựng "양육비" (yang-yuk-bi) có nghĩa là gì?
+A. Tiền bồi thường tổn thất tinh thần
+B. Tiền cấp dưỡng nuôi con
+C. Phân chia tài sản
+D. Chi phí sinh hoạt khẩn cấp
+ANSWER: B
+
+Q: Từ vựng "재산분할" (jae-san-bun-hal) có nghĩa là gì?
+A. Phân chia tài sản
+B. Biện pháp tạm thời
+C. Tố tụng gia đình
+D. Lệnh cấm tiếp cận
 ANSWER: A
 
-Q: Cho đồ thị có hướng G = <V, E>. Khẳng định nào đúng trong những khẳng định dưới đây:
-A. Tổng bán bậc ra khác Tổng bán bậc vào khác số cung |E|.
-B. Tổng bán bậc ra bằng Tổng bán bậc vào khác số cung |E|.
-C. Tổng bán bậc ra khác Tổng bán bậc vào bằng số cung |E|.
-D. Tổng bán bậc ra bằng Tổng bán bậc vào bằng số cung |E|.
+Q: Từ vựng "위자료" (wi-ja-ryo) có nghĩa là gì?
+A. Tiền bồi thường tổn thất tinh thần
+B. Hỗ trợ chi phí sinh hoạt khẩn cấp
+C. Hỗ trợ y tế
+D. Tiền cấp dưỡng nuôi con
+ANSWER: A
+
+Q: Từ vựng "사실혼" (sa-sil-hon) có nghĩa là gì?
+A. Hôn nhân thực tế/Đồng sàng
+B. Đổ vỡ hôn nhân
+C. Khai báo mất tích
+D. Ly hôn tòa án
+ANSWER: A
+
+Q: Từ vựng "쉼터" (swim-teo) có nghĩa là gì?
+A. Trung tâm tư vấn
+B. Nhà lánh nạn/Nhà tạm lánh
+C. Tòa án gia đình
+D. Cục quản lý xuất nhập cảnh
+ANSWER: B
+
+Q: Từ vựng "다문화가족 자녀" (da-mun-hwa-ga-jok ja-nyeo) có nghĩa là gì?
+A. Trẻ em nhập cảnh lửng lơ
+B. Trẻ em độ tuổi đến trường
+C. Con em gia đình đa văn hóa
+D. Trẻ em Việt - Hàn
+ANSWER: C
+
+Q: Từ vựng "이중국적" (i-jung-guk-jeok) có nghĩa là gì?
+A. Mất quốc tịch
+B. Quốc tịch kép/Hai quốc tịch
+C. Nghĩa vụ lựa chọn quốc tịch
+D. Nhập tịch đơn giản
+ANSWER: B
+
+Q: Từ vựng "우울증" (u-ul-jeung) có nghĩa là gì?
+A. Rối loạn stress sau sang chấn
+B. Sốc văn hóa
+C. Cảm giác cô lập
+D. Bệnh trầm cảm
 ANSWER: D
 
-Q: Đồ thị đầy đủ K_n có bao nhiêu cạnh?
-A. (n-1)^2 cạnh.
-B. 2n cạnh.
-C. 2n-1 cạnh.
-D. (n(n-1))/2 cạnh.
-ANSWER: D
+Q: Từ vựng "문화충격" (mun-hwa-chung-gyeok) có nghĩa là gì?
+A. Rào cản ngôn ngữ
+B. Sốc văn hóa
+C. Khủng hoảng bản sắc
+D. Sự kỳ thị xã hội
+ANSWER: B
 
-Q: Đồ thị bánh xe C_n có bao nhiêu cạnh?
-A. 2n-1 cạnh.
-B. (n-1) cạnh.
-C. (n(n-1))/2 cạnh.
-D. n cạnh.
-ANSWER: D
+Q: Từ vựng "심리 상담" (sim-ri sang-dam) có nghĩa là gì?
+A. Tư vấn pháp luật
+B. Hỗ trợ y tế
+C. Tư vấn tâm lý
+D. Đào tạo nghề
+ANSWER: C
+
+Q: Từ vựng "통번역 서비스" (tong-beon-yeok seu-bi-seu) có nghĩa là gì?
+A. Dịch vụ biên - phiên dịch
+B. Dịch vụ Voucher
+C. Can thiệp khủng hoảng
+D. Hỗ trợ tái hòa nhập
+ANSWER: A
